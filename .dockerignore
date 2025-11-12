@@ -1,0 +1,11 @@
+Backend/bin/
+Backend/obj/
+Backend/*.db
+Backend/*.db-shm
+Backend/*.db-wal
+Frontend/
+.git/
+.gitignore
+README.md
+DEPLOYMENT.md
+QUICK_DEPLOY.md
