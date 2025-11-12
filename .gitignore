@@ -1,0 +1,29 @@
+# Backend - .NET
+Backend/bin/
+Backend/obj/
+Backend/*.db
+Backend/*.db-shm
+Backend/*.db-wal
+Backend/appsettings.Development.json
+
+# Frontend - React/Node
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.local
+# NON ignorare .env.production perché è necessario per Vercel
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
